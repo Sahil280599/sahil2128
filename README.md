@@ -3,11 +3,11 @@
 
 
 - 🔭 A Penultimate guy
-- 🌱 I’m currently learning more about Deep Learning
+- 🌱 I’m currently learning more about Neural Netwok
 - 👯 I’m looking to collaborate on Instagram
 - 👉 you can follow our page [@dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
-- 📫 How to reach me: [Instagram - @dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) 
+- 📫 How to reach me: [Instagram - @dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: i can watch Naruto whole day. 
 
