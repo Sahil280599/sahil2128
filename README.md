@@ -12,6 +12,6 @@
 - ⚡ Fun fact: i can watch Naruto whole day. 
 
 
-[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil2128)](https://github.com/sahil2128/github-readme-stats)
+![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahil2128&show_icons=true&theme=radical)
 
 
