@@ -2,7 +2,7 @@
 
 
 
-- 🔭 A Penultimate gut
+- 🔭 A Penultimate guy
 - 🌱 I’m currently learning more about Deep Learning
 - 👯 I’m looking to collaborate on Instagram
 - 👉 you can follow our page [@dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
