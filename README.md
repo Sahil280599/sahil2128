@@ -22,19 +22,16 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ?highlight=spotify:track:1mXVgsBdtIVeCLJnSnmtdV)
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
-**To Reach-** 🔗
+:mailbox: Reach me out!
 
 [![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/sahil2128)
 
 
 [![Linkedin: Sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-tripathi-5852b5184/)](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
 
-[![Mail Badge](https://img.shields.io/badge/-sahiltripathi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sahiltripathi56@gmail.com)
+[![Gmail sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sahiltripathi56@gmail.com)
+
+[![Instagram dynamic geek](https://img.shields.io/badge/-@dynamic__geek-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dynamic__geek/?hl=en)
 
 **Languages and Tools:** 
 
