@@ -29,6 +29,8 @@
 
 [![Linkedin: Sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-tripathi-5852b5184/)](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
 
+[![Mail Badge](https://img.shields.io/badge/-sahiltripathi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sahiltripathi56@gmail.com)
+
 **Languages and Tools:** 
 
 
