@@ -4,7 +4,7 @@
 
 **About Me**
 
-- 🔭 A Penultimate Guy
+- 🔭 A Penultimate 
 - 🌱 I’m currently learning more about Neural Netwok
 
      ![SeparateFrayedChafer-max-1mb](https://user-images.githubusercontent.com/55251741/103231522-f9671280-495d-11eb-9ea0-d2f222dd51ed.gif)
