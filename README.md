@@ -5,7 +5,7 @@
 **About Me**
 
 - 🔭 A Penultimate 
-- 🌱 I’m currently learning more about Neural Netwok
+- 🌱 I’m currently learning more about Neural Netwoks
 
      ![SeparateFrayedChafer-max-1mb](https://user-images.githubusercontent.com/55251741/103231522-f9671280-495d-11eb-9ea0-d2f222dd51ed.gif)
 
