@@ -22,6 +22,11 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ?highlight=spotify:track:1mXVgsBdtIVeCLJnSnmtdV)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 **To Reach-** 🔗
 
 [![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/sahil2128)
