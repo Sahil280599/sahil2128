@@ -48,7 +48,7 @@
 
 
 
-![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahil2128&show_icons=true&theme=radical)
+![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahil2128&show_icons=true&theme=radical&hide=stars,issues)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2128&layout=compact)](https://github.com/sahil2128/github-readme-stats)
