@@ -62,7 +62,7 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahil2128&layout=compact&theme=radical&count_private=true" />
 
-Show ❤️ by starring repositories you find good!
+<p align="center">Show some ❤️ by Starring Repositories you find Superior!</p>
 
 
 
