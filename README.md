@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil2128&label=Views&color=blue&style=plastic" alt="sahil2128" /> </p>
 
-**About Me**
+**About Me -**
 
 - 🔭 A Penultimate 
 - 🌱 I’m currently learning more about Neural Netwoks
@@ -14,7 +14,7 @@
  
      
 
-- 👯 I’m looking to collaborate on Instagram
+- 👯 I’m collaborating on Instagram -
 - 👉 you can follow our page [@dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
 - 📫 How to reach me: [Instagram - @dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
