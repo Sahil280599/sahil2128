@@ -12,8 +12,6 @@
      ![SeparateFrayedChafer-max-1mb](https://user-images.githubusercontent.com/55251741/103231522-f9671280-495d-11eb-9ea0-d2f222dd51ed.gif) 
      
  
-     
-
 - 👯 I’m collaborating on Instagram -
 - 👉 you can follow our page [@dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
