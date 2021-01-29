@@ -5,7 +5,7 @@
 **About Me -**
 
 - 🔭 A Penultimate 
-- 🌱 I’m currently learning more about Neural Netwoks
+- 🌱 I’m currently learning more about Neural Netwoking
 
 
 
