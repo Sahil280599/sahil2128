@@ -4,7 +4,7 @@
 
 **About Me -**
 
-- 🔭 A Penultimate Guy
+- 🔭 A Penultimate 
 - 🌱 I’m currently learning more about Neural Netwoking
 
 
