@@ -13,9 +13,9 @@
      
  
 - 👯 I’m collaborating on Instagram -
-- 👉 you can follow our page [@dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
+- 👉 you can follow our page [THE DYNAMIC GEEK](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
-- 📫 How to reach me: [Instagram - @dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
+- 📫 How to reach me: [Instagram - @MR.HUNTER](https://www.instagram.com/hunterr__28/) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: i can watch Naruto whole day. 
 
