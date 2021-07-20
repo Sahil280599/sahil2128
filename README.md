@@ -29,7 +29,7 @@
 - 💬 Ask me about Tech related stuff. 
 - 📫 How to reach me: [Instagram - @MR.HUNTER](https://www.instagram.com/hunterr__28/) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: i can watch Naruto whole day. 
+- ⚡ Fun fact: i can watch Naruto whole day🐱‍👤🍜🦊 
 
 
 ### Spotify Playing 🎧
