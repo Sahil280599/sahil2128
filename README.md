@@ -10,7 +10,7 @@
 **About Me -**
 
 - 🔭 A Penultimate 
-- 🌱 I’m currently learning more about Tensorflow
+- 🌱 I’m currently learning more about Tensorflow in depth
 
 
 
