@@ -1,18 +1,24 @@
 ### HOLA THIS IS SAHIL FIRST OF MY NAME <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil2128&label=Views&color=blue&style=plastic" alt="sahil2128" /> </p>
+
+![COVERR](https://user-images.githubusercontent.com/55251741/126353432-0b5d8ec4-40bf-486e-bcae-7d0434ba435c.png)
+
 
 **About Me -**
 
 - 🔭 A Penultimate 
-- 🌱 I’m currently learning more about Neural Netwoking
+- 🌱 I’m currently learning more about Tensorflow
 
 
 
-     ![SeparateFrayedChafer-max-1mb](https://user-images.githubusercontent.com/55251741/103231522-f9671280-495d-11eb-9ea0-d2f222dd51ed.gif) 
+     ![neuralnet](https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif)
+
      
  
-- 👯 I’m collaborating on Instagram -
+- 👯 I’m collaborating on Podcast [Spotify](https://open.spotify.com/show/0Xjsp5N1RiHlXl92E1SDxr?si=uSoi7RNjQYKdWF587h2Rnw&utm_source=copy-link&dl_branch=1) -
 - 👉 you can follow our page [THE DYNAMIC GEEK](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
 - 📫 How to reach me: [Instagram - @MR.HUNTER](https://www.instagram.com/hunterr__28/) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
