@@ -11,10 +11,10 @@
 
 - 🔭 A Penultimate 
 - 🌱 I’m currently learning more about Tensorflow in depth
-
-
-
-     ![neuralnet](https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif)
+     
+     <p align="center">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
+</p>
 
      
  
@@ -25,7 +25,7 @@
 
 
 
-- 👉 you can follow our page [THE DYNAMIC GEEK](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
+- 👉 You can follow our page [THE DYNAMIC GEEK](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
 - 📫 How to reach me: [Instagram - @MR.HUNTER](https://www.instagram.com/hunterr__28/) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
 - 😄 Pronouns: He/His.
