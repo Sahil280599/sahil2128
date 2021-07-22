@@ -102,6 +102,11 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahil2128&layout=compact&theme=radical&count_private=true" />
 
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/sahil2128/sahil2128/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+</p>
+
 
 
 <p align="center">Show some ❤️ by ⭐ Repositories you find Superior!</p>
