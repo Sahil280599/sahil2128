@@ -23,6 +23,9 @@
 ![1](https://user-images.githubusercontent.com/55251741/126361130-b61cfcac-6762-4245-b88d-9ddcd1f0035e.PNG)
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa)](https://github.com/sahil2128/spotify-github-profile)
+
+
 
 
 - 👉 You can follow our page [THE DYNAMIC GEEK](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
