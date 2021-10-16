@@ -9,7 +9,7 @@
 
 **About Me -**
 
-- 🔭 A Penultimate 
+- 🔭 A Final Year Grad
 - 🌱 I’m currently learning more about Tensorflow in depth
      
      <p align="center">
